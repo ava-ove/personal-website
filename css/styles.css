@@ -96,7 +96,7 @@ navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hove
   bottom: 0;
   width: 100%;
   height: 100%;
-  background-image: url(.../images/header-img2.png);
+  background-image: url(../images/header-img2.png);
   background-position: center;
   background-size: cover;
 }
